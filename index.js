@@ -256,9 +256,9 @@ CountryPicker.defaultProps = {
   animationType: 'slide',
   hideCountryFlag: false,
   hideCountryCode: false,
-  dropDownImage: require('../../res/ic_drop_down.png'),
-  backButtonImage: require('../../res/ic_back_black.png'),
-  searchButtonImage: require('../../res/ic_search.png'),
+  dropDownImage: require('./res/ic_drop_down.png'),
+  backButtonImage: require('./res/ic_back_black.png'),
+  searchButtonImage: require('./res/ic_search.png'),
   countryCode: '91',
   containerStyle: {
     height: 60,
